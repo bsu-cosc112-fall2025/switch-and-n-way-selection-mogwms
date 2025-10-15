@@ -1,0 +1,31 @@
+TVSelector.java:
+
+Variable Name: selection
+Data Type: int
+Value In Memory: input.nextInt()
+Line Declared: Line 6
+Line Initalized: Line 13
+
+
+FlooringSelector.java:
+
+Variable Name: selection
+Data Type: String
+Value In Memory: input.nextLine()
+Line Declared: Line 6
+Line Initalized: Line 13
+
+Part 2
+
+• Initial value: score = 88, grade = ""
+• Which condition is true?
+Condition 2 is true.
+• Final value of grade = B
+• Output: "Grade: B"
+
+Memory Tracing Practice:
+
+Initial values: age = 17, hasPermission = true
+• Which condition(s) are true?
+Condition 2 is true.
+• Output: "Access granted with permission"
