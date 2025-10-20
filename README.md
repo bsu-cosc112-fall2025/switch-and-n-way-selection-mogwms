@@ -10,8 +10,8 @@ I had to make sure that the nested statement would only run if the first conditi
 
 3. How did memory tracing help you understand control flow?
    
-It helps you understand control flow because you are learning about conditional statements as well as ways to make things easier and more readable.
+It helped me understand a glimpse of how variables are stored, declared, and changed.
 
 4. What strategies did you use to test and verify your logic?
    
-I  used the terminal and entered things to see if they printed correctly.
+During my tests, I used the terminal and tested multiple inputs to see if they printed correctly.
